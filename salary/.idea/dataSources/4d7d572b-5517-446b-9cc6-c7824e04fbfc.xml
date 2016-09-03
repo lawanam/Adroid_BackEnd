@@ -1,0 +1,15 @@
+<dataSource name="MySQL - salarydb@localhost">
+  <database-model serializer="dbm" rdbms="MYSQL" format-version="2.6">
+    <schema id="1" name="salarydb">
+      <visible>1</visible>
+    </schema>
+    <schema id="2" name="busbooking" />
+    <schema id="3" name="information_schema" />
+    <schema id="4" name="leagueofdraven" />
+    <schema id="5" name="mysql" />
+    <schema id="6" name="performance_schema" />
+    <schema id="7" name="phpmyadmin" />
+    <schema id="8" name="store" />
+    <schema id="9" name="test" />
+  </database-model>
+</dataSource>
